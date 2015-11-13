@@ -36,3 +36,5 @@ lib/dotjs/*.js
 
 # Ajv bundle
 ajv.bundle.js
+ajv.standalone.js
+ajv.standalone-debug.js
